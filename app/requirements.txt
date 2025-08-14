@@ -3,5 +3,5 @@ plotly
 pandas
 sqlalchemy
 psycopg2-binary
-yfinance
+yfinance==0.2.65
 python-dotenv
